@@ -1,34 +1,58 @@
 {
-  "softwares": [
+  "software": [
     {
       "id": 1,
       "name": "Software 1",
-      "version": "1.1.0.20",
-      "link": "https://example.com/"
+      "version": "1.4.2",
+      "download_link": "https://example.com/",
+      "product_page":"https://example.com/",
+      "box_image":"https://example.com/sw1.jpg",
+      "updated":"2023-09-08 13:42:50",
     },
-	{
+    {
       "id": 2,
-      "name": "Software 2",
-      "version": "2.30",
-      "link": "https://example.com/"
+      "name": "Loopy",
+      "version": "10.0.0.1",
+      "download_link": "https://example.com/",
+      "product_page":"https://example.com/",
+      "box_image":"https://example.com/loopy.jpg",
+      "updated":"2023-09-08 13:42:50",
     },
-	{
+    {
       "id": 3,
       "name": "Software 2",
       "version": "1.4.2",
-      "link": "https://example.com/"
+      "download_link": "https://example.com/",
+      "product_page":"https://example.com/",
+      "box_image":"https://example.com/sw3.jpg",
+      "updated":"2023-09-05 22:43:04",
     },
-	{
+    {
       "id": 4,
-      "name": "Loopy",
-      "version": "10.0.0.1",
-      "link": "https://example.com/"
+      "name": "Software 3",
+      "version": "0.0.1",
+      "download_link": "https://example.com/",
+      "product_page":"https://example.com/",
+      "box_image":"https://example.com/sw4.jpg",
+      "updated":"2023-09-06 13:21:05",
     },
     {
       "id": 5,
       "name": "Software 5",
       "version": "1.2.0.1",
-      "link": "https://example.com/"
+      "download_link": "https://example.com/",
+      "product_page":"https://example.com/",
+      "box_image":"https://example.com/sw5.jpg",
+      "updated":"2023-09-06 18:57:31"
+    },
+    {
+      "id": 6,
+      "name": "Software 6",
+      "version": "1.2.0.1",
+      "download_link": "https://example.com/",
+      "product_page":"https://example.com/",
+      "box_image":"https://example.com/sw6.jpg",
+      "updated":"2023-09-05 22:47:21",
     }
   ]
 }
