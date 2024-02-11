@@ -7,7 +7,7 @@
       "download_link": "https://example.com/",
       "product_page":"https://example.com/",
       "box_image":"https://example.com/sw1.jpg",
-      "updated":"2023-09-08 13:42:50",
+      "updated":"2023-09-08 13:42:50"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "download_link": "https://example.com/",
       "product_page":"https://example.com/",
       "box_image":"https://example.com/loopy.jpg",
-      "updated":"2023-09-08 13:42:50",
+      "updated":"2023-09-08 13:42:50"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "download_link": "https://example.com/",
       "product_page":"https://example.com/",
       "box_image":"https://example.com/sw3.jpg",
-      "updated":"2023-09-05 22:43:04",
+      "updated":"2023-09-05 22:43:04"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "download_link": "https://example.com/",
       "product_page":"https://example.com/",
       "box_image":"https://example.com/sw4.jpg",
-      "updated":"2023-09-06 13:21:05",
+      "updated":"2023-09-06 13:21:05"
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
       "download_link": "https://example.com/",
       "product_page":"https://example.com/",
       "box_image":"https://example.com/sw6.jpg",
-      "updated":"2023-09-05 22:47:21",
+      "updated":"2023-09-05 22:47:21"
     }
   ]
 }
